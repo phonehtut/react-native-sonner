@@ -1,0 +1,33 @@
+{
+  "name": "@phonehtut/react-native-sonner",
+  "version": "0.0.1",
+  "description": "A simple and customizable toast notification system for React Native applications",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "react-native",
+    "toast",
+    "notification",
+    "alert",
+    "moti"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "19.0.0",
+    "react-native": "0.79.2",
+    "moti": "^0.30.0",
+    "@expo/vector-icons": "^14.1.0",
+    "tailwind-merge": "^3.3.0",
+    "nativewind": "^4.1.23"
+  },
+  "devDependencies": {
+    "@types/react": "~19.0.10",
+    "@types/react-native": "~0.72.0",
+    "typescript": "~5.8.3"
+  }
+} 
