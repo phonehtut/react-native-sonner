@@ -4,6 +4,13 @@
   "description": "A simple and customizable toast notification system for React Native applications",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phonehtut/react-native-sonner"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
