@@ -1,6 +1,6 @@
 {
   "name": "@phonehtut/react-native-sonner",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple and customizable toast notification system for React Native applications",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -37,4 +37,4 @@
     "@types/react-native": "~0.72.0",
     "typescript": "~5.8.3"
   }
-} 
+}
